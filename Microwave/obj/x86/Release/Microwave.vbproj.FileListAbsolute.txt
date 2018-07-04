@@ -1,0 +1,15 @@
+C:\Users\Mahekaru\documents\visual studio 2010\Projects\Microwave\Microwave\bin\Release\Microwave.exe
+C:\Users\Mahekaru\documents\visual studio 2010\Projects\Microwave\Microwave\bin\Release\Microwave.pdb
+C:\Users\Mahekaru\documents\visual studio 2010\Projects\Microwave\Microwave\bin\Release\Microwave.xml
+C:\Users\Mahekaru\documents\visual studio 2010\Projects\Microwave\Microwave\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Mahekaru\documents\visual studio 2010\Projects\Microwave\Microwave\obj\x86\Release\Microwave.frmMicrowave.resources
+C:\Users\Mahekaru\documents\visual studio 2010\Projects\Microwave\Microwave\obj\x86\Release\Microwave.Resources.resources
+C:\Users\Mahekaru\documents\visual studio 2010\Projects\Microwave\Microwave\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Mahekaru\documents\visual studio 2010\Projects\Microwave\Microwave\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Mahekaru\documents\visual studio 2010\Projects\Microwave\Microwave\obj\x86\Release\Microwave.exe
+C:\Users\Mahekaru\documents\visual studio 2010\Projects\Microwave\Microwave\obj\x86\Release\Microwave.xml
+C:\Users\Mahekaru\documents\visual studio 2010\Projects\Microwave\Microwave\obj\x86\Release\Microwave.pdb
+C:\Users\Mahekaru\documents\visual studio 2010\Projects\Microwave\Microwave\bin\Release\Microwave.exe.manifest
+C:\Users\Mahekaru\documents\visual studio 2010\Projects\Microwave\Microwave\bin\Release\Microwave.application
+C:\Users\Mahekaru\documents\visual studio 2010\Projects\Microwave\Microwave\obj\x86\Release\Microwave.exe.manifest
+C:\Users\Mahekaru\documents\visual studio 2010\Projects\Microwave\Microwave\obj\x86\Release\Microwave.application

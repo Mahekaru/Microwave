@@ -1,0 +1,24 @@
+C:\Users\Mahekaru\documents\visual studio 2010\Projects\Microwave\Microwave\bin\Debug\Microwave.exe
+C:\Users\Mahekaru\documents\visual studio 2010\Projects\Microwave\Microwave\bin\Debug\Microwave.pdb
+C:\Users\Mahekaru\documents\visual studio 2010\Projects\Microwave\Microwave\bin\Debug\Microwave.xml
+C:\Users\Mahekaru\documents\visual studio 2010\Projects\Microwave\Microwave\obj\x86\Debug\Microwave.frmMicrowave.resources
+C:\Users\Mahekaru\documents\visual studio 2010\Projects\Microwave\Microwave\obj\x86\Debug\Microwave.Resources.resources
+C:\Users\Mahekaru\documents\visual studio 2010\Projects\Microwave\Microwave\obj\x86\Debug\Microwave.exe
+C:\Users\Mahekaru\documents\visual studio 2010\Projects\Microwave\Microwave\obj\x86\Debug\Microwave.xml
+C:\Users\Mahekaru\documents\visual studio 2010\Projects\Microwave\Microwave\obj\x86\Debug\Microwave.pdb
+F:\School\VB\Microwave\Microwave\obj\x86\Debug\Microwave.exe
+F:\School\VB\Microwave\Microwave\obj\x86\Debug\Microwave.xml
+F:\School\VB\Microwave\Microwave\obj\x86\Debug\Microwave.pdb
+F:\School\VB\Microwave\Microwave\bin\Debug\Microwave.exe
+F:\School\VB\Microwave\Microwave\bin\Debug\Microwave.pdb
+F:\School\VB\Microwave\Microwave\bin\Debug\Microwave.xml
+F:\School\VB\Microwave\Microwave\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\School\VB\Microwave\Microwave\obj\x86\Debug\Microwave.frmMicrowave.resources
+F:\School\VB\Microwave\Microwave\obj\x86\Debug\Microwave.Resources.resources
+F:\School\VB\Microwave\Microwave\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\School\VB\Microwave\Microwave\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mahekaru\Documents\Visual Studio 2010\Projects\Microwave\Microwave\bin\Debug\Microwave.exe.manifest
+C:\Users\Mahekaru\Documents\Visual Studio 2010\Projects\Microwave\Microwave\bin\Debug\Microwave.application
+C:\Users\Mahekaru\Documents\Visual Studio 2010\Projects\Microwave\Microwave\obj\x86\Debug\Microwave.exe.manifest
+C:\Users\Mahekaru\Documents\Visual Studio 2010\Projects\Microwave\Microwave\obj\x86\Debug\Microwave.application
+C:\Users\Mahekaru\Documents\Visual Studio 2010\Projects\Microwave\Microwave\obj\x86\Debug\Microwave.vbproj.GenerateResource.Cache
